@@ -1,0 +1,7 @@
+.searchBar {
+  background: #cfe8fc;
+  display: flex;
+  justify-content: center;
+  width: auto;
+  border-radius: 6px;
+}

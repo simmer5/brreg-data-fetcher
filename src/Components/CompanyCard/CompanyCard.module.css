@@ -1,0 +1,12 @@
+.h2 {
+  color: rgb(255, 205, 26);
+  font-weight: bold;
+  font-size: x-large;
+}
+.key {
+  color: rgb(255, 97, 237);
+  font-size: larger;
+}
+.value {
+  color: rgb(148, 230, 255);
+}
